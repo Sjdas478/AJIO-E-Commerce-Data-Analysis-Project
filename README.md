@@ -6,16 +6,16 @@ This project is an end-to-end data analysis case study of an Indian e-commerce p
 To derive actionable insights that can help improve marketing, logistics, and customer satisfaction strategies for an e-commerce platform like Ajio.
 
 ## 📁 Dataset Overview
-The project uses the following datasets:
+   The project uses the following datasets:
 
-Table Name	Description
-customers	Customer demographics & location info
-orders	All purchase transactions
-products	Product-level details
-returns	Return records with reasons & status
-delivery	Delivery partner involvement
-coupons	Coupon usage history
-payments	Payment method details
+  * Table Name	Description
+  * customers	Customer demographics & location info
+  * orders	All purchase transactions
+  * products	Product-level details
+  * returns	Return records with reasons & status
+  * delivery	Delivery partner involvement
+  * coupons	Coupon usage history
+  * payments	Payment method details
 
 ## 📊 Key Analyses & Insights
 * 🧑‍🤝‍🧑 Customer Behavior:
